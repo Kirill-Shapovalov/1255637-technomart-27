@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Кирилл Шаповалов](https://up.htmlacademy.ru/htmlcss/27/user/1255637).
-* Наставник: [Никита Победоносцев :)](https://htmlacademy.ru/profile/nikkypizza).
+* Наставник: [Никита Победоносцев ](https://htmlacademy.ru/profile/nikkypizza).
 
 ---
 
